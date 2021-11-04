@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/steemit-work/static/js/main.301543da.chunk.js",
+    "main.js.map": "/steemit-work/static/js/main.301543da.chunk.js.map",
+    "runtime-main.js": "/steemit-work/static/js/runtime-main.49555fa5.js",
+    "runtime-main.js.map": "/steemit-work/static/js/runtime-main.49555fa5.js.map",
+    "static/js/2.2d768e3c.chunk.js": "/steemit-work/static/js/2.2d768e3c.chunk.js",
+    "static/js/2.2d768e3c.chunk.js.map": "/steemit-work/static/js/2.2d768e3c.chunk.js.map",
+    "index.html": "/steemit-work/index.html",
+    "static/js/2.2d768e3c.chunk.js.LICENSE.txt": "/steemit-work/static/js/2.2d768e3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49555fa5.js",
+    "static/js/2.2d768e3c.chunk.js",
+    "static/js/main.301543da.chunk.js"
+  ]
+}
